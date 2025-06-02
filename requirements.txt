@@ -1,0 +1,18 @@
+backports.weakref
+bleach
+enum34
+funcsigs
+# futures==3.2.0
+html5lib
+Markdown
+mock
+numpy<2.0
+pbr
+protobuf
+scikit-learn
+scipy
+tensorflow==2.12.0
+tensorflow-tensorboard
+Werkzeug
+networkx==2.8
+r2pipe
