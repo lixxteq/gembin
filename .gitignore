@@ -1,0 +1,19 @@
+# project related
+data/
+**/*.json
+**/*.cfg
+**/*.acfg
+saved_model
+*.zip
+
+# general
+__pycache__/
+.ipynb_checkpoints/
+*venv/
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak
+*.pyc
+.Python
