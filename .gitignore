@@ -1,6 +1,6 @@
 # project related
 data/
-**/*.json
+application/*.json
 **/*.cfg
 **/*.acfg
 saved_model
